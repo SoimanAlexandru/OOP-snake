@@ -1,2 +1,2 @@
-# POO
-Proiect Programare Orientata pe Obiecte
+#OOP
+A snake game using oop concepts.
